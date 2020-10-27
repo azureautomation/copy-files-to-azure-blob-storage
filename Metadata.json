@@ -1,0 +1,20 @@
+{
+    "Author": "Arash Nabi",
+    "ContentSize": 3811,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/copy-files-to-azure-blob-storage/master/Copy-ToAzureBlob.ps1",
+    "DownloadCount": 2312,
+    "Id": "Copy-files-to-Azure-Blob-e921ff04",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 52,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-6-1T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Copy-ToAzureBlob will copy files from $path to Azure Blob. The Azure powershell module should be installed, otherwise the script will fail. You can download it from https://www.powershellgallery.com/.Update with your information like Application ID, Tenant ID, Storage Account and",
+    "Title": "Copy files to Azure Blob Storage",
+    "UpdatedDate": "2018-6-1T00:00:00",
+    "Url": "https://github.com/azureautomation/copy-files-to-azure-blob-storage",
+    "UserTags": "Microsoft Azure, Azure Blob Storage, copy files"
+}
